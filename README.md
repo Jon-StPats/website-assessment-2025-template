@@ -20,9 +20,12 @@ Welcome! This is a simple website starter for your project.
 - `assets/js/script.js`: Optional JavaScript.
 - `assets/images/`: Store your images here.
 
-## 📦 Deployment
+## 📦 Download the assessment
 
-You can host this site for free using GitHub Pages:
-- Go to your repository settings
-- Scroll to **Pages**
-- Set the source to the `main` branch and click save
+Clone this template to create a local repo:
+- Copy the repo's URL
+- Open VSCode
+-  **Ctrl+Shift+P**
+- Type Git Clone + enter
+- Paste in the URL + enter
+- Select the PT203 folder in your H Drive and clone
