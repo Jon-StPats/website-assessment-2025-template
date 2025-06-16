@@ -11,7 +11,6 @@ Clone this template to create a local repo:
 - Type Git Clone + enter
 - Paste in the URL + enter
 - Select the PT203 folder in your H Drive and clone
-   ```
 
 ## 🧾 Folder Structure
 
@@ -20,6 +19,7 @@ Clone this template to create a local repo:
 - `assets/js/script.js`: Optional JavaScript.
 - `assets/images/`: Store your images here.
 
-## 📦 Start coding! Open `index.html` and begin building your site.
+## 📦 Start coding! 
+Open `index.html` and begin building your site.
 
 
